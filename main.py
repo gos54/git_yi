@@ -1,6 +1,6 @@
-name = input('Ты кто?')
-age = input('Сколько тебе лет')
-if age >= 18:
-	print('Пошли в КБ')
-else:
-	print('Иди в школу')
+def main():
+	pass
+
+
+if __name__ == '__main__':
+	main()
