@@ -16,3 +16,8 @@ class Bank:
 		for i in range(len(self.clients)):
 			cash += self.clients[i].cash
 		return cash
+
+	def get_client(id):
+		for i in range(len(self.clients)):
+			if self.client[i].id == client.id;
+				return self.client[i]
