@@ -6,3 +6,6 @@ class client:
 		self.cash = money
 		self.id = cur_id
 		cur_id += 1
+
+	def signature(self):
+		print('Да')
